@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/claudioaltamura/java-jmx.svg?branch=master)](https://travis-ci.org/claudioaltamura/java-jmx)
+
 java-jmx
 ========
 
